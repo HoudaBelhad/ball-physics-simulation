@@ -1,5 +1,10 @@
 # 🏀 Bouncing Ball Physics Simulation (Python)
 
+<p align="center">
+  <img src="assets/demo.gif" alt="Bouncing Ball Demo" width="500">
+</p>
+
+
 This project is a simple 2D physics simulation of a bouncing ball using **Python and Pygame**.
 The ball is affected by gravity, collides with the ground and walls, and gradually loses energy
 on each bounce.
